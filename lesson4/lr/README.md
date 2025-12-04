@@ -1,0 +1,1 @@
+[Лабораторная работа, сшивка изображений](https://colab.research.google.com/drive/13KHL7HuYpPbJFdZgE1Qcb-qkaoxDbMNo?usp=sharing)
